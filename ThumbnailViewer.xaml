@@ -1,0 +1,24 @@
+﻿<Window x:Name="ThumbnailViewer" x:Class="ThumbnailViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Thumbnailer"
+        mc:Ignorable="d"
+        Title="ThumbnailViewer" Height="1084" Width="1480" ScrollViewer.VerticalScrollBarVisibility="Disabled" SnapsToDevicePixels="True" ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterOwner" MouseLeftButtonUp="ThumbnailViewer_MouseLeftButtonUp">
+    
+        <Window.ContextMenu>
+        <ContextMenu x:Name="ContextMenu">
+            <MenuItem x:Name="FileOpenCX" Header = "File Open" Click = "File_Open" />
+            <Separator />
+            <MenuItem x:Name="Fit_ScreenCX" Header = "Fit Screen" Click = "FitScreen_Click" />
+            <MenuItem x:Name="Zoom_ScreenCX" Header = "Normal" Click = "Zoom_Click" />
+            <Separator />
+            <MenuItem x:Name="CloseCX" Header = "Exit" Click = "Close_Form" />
+        </ContextMenu>
+    </Window.ContextMenu>
+    <Grid>
+        <Image x:Name="ThumbnailPB" >
+        </Image>
+    </Grid>
+</Window>
