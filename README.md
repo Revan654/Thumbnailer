@@ -26,9 +26,9 @@ Options:
 - Intervals(Used When Time Base Mode is Used)
 - Logo(Disable or Use Watermark)
 
-As Each Thumbnail is made it get's added to the List When then can be viewed from Side Viewer or Use internal Viewer to see the Actual Size.
+As Each Thumbnail is made it gets added to the List Where it can be viewed from Side Viewer or Use internal Viewer(Full Size).
 
-Tool Also uses it's own internal Viewer.
+Tool Also has it's own internal Viewer.
 
 ![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/ThumbnailViewer.png "UI Viewer")
 
