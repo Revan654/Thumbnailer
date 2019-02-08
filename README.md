@@ -1,4 +1,5 @@
-![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/MainUI.png "Main UI")
+![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/WPF.png "Main UI WPF Edition")
+![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/MainUI.png "Main UI WinForm Edition")
 
 Release Date: Soon
 
