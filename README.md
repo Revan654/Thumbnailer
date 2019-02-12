@@ -1,11 +1,9 @@
 ![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/WPF.png "Main UI WPF Edition")
 ![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/MainUI.png "Main UI WinForm Edition")
 
-Release Date: Soon
-
 The Program was designed to create accurate and fast contact sheets. Along with avoid usage of FFmpeg CLI to to skip the 20+ Processes running in the background each time a ContactSheet is made.
 
-![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/ListBoxUI.png "ListBox UI")
+![alt text](https://raw.githubusercontent.com/Revan654/Thumbnailer/master/Docs/Screenshots/WPFPreview.png "ListBox UI")
 
 Files Included: 
 - AviSynth Portable
